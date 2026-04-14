@@ -1,7 +1,4 @@
-#!/bin/bash
-# INSTRUCCIONES PARA SUBIR A GITHUB
-# Reemplaza TU_USUARIO por tu usuario de GitHub y la URL por la de tu repo.
-# Ejecuta en la terminal del sistema operativo (NO en DOSBox).
+
 
 # ── Commit 1 — Estructura inicial ────────────────────────────
 git init
